@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/foxwang/hcl/hcl"
+	"github.com/yudai/hcl/hcl"
 )
 
 // This is the tag to use with structures to have settings for HCL
