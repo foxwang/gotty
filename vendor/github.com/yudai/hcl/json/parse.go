@@ -3,7 +3,7 @@ package json
 import (
 	"sync"
 
-	"github.com/yudai/hcl/hcl"
+	"github.com/foxwang/hcl/hcl"
 	"github.com/hashicorp/go-multierror"
 )
 
